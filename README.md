@@ -1,5 +1,4 @@
 # Real-Time-ISL-Prediction-Using-Deep-Learning
-Real-time Indian Sign Language recognition model by integrating the concept of 2D Convolutional Neural Networks.
 
 Sign Language is a non-verbal type of communication used to transfer information unlike speech -verbal type of communication that utilizes oral articulations- through gestures. This project aims to bridge the communication barrier between individuals with speech and hearing disability and non-sign language speakers by creating a recognition model using real time motion analysis where the preprocessing of the dataset is performed using Open CV and the images are simultaneously converted to grey image. Subsequently, HSV conversion is applied along with skin masking and Canny-edge detection for hand tracking and detection.
 
